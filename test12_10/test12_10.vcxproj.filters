@@ -18,5 +18,14 @@
     <ClCompile Include="test12_10.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test12_10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
