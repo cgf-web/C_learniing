@@ -1,0 +1,18 @@
+﻿  test12_10.cpp
+D:\C_code\test12_10\test12_10.cpp(89,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\C_code\test12_10\test12_10.cpp(89,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\C_code\test12_10\test12_10.cpp(94,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\C_code\test12_10\test12_10.cpp(94,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\C_code\test12_10\test12_10.cpp(95,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\C_code\test12_10\test12_10.cpp(95,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\C_code\test12_10\test12_10.cpp(97,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\C_code\test12_10\test12_10.cpp(97,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  test12_10.vcxproj -> D:\C_code\test12_10\x64\Debug\test12_10.exe
