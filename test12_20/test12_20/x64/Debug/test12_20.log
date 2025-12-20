@@ -1,0 +1,6 @@
+﻿  test12_20.cpp
+D:\C_code\test12_20\test12_20\test12_20.cpp(47,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(int,int)”
+D:\C_code\test12_20\test12_20\test12_20.cpp(47,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int (__cdecl *)(int,int)" 的参数 1 冲突
+D:\C_code\test12_20\test12_20\test12_20.cpp(48,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(int,int)”
+D:\C_code\test12_20\test12_20\test12_20.cpp(48,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int (__cdecl *)(int,int)" 的参数 1 冲突
+  test12_20.vcxproj -> D:\C_code\test12_20\x64\Debug\test12_20.exe
