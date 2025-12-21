@@ -1,0 +1,4 @@
+﻿  test12_21.cpp
+D:\C_code\test12_21\test12_21\test12_21.cpp(12,7): warning C4101: “arr”: 未引用的局部变量
+D:\C_code\test12_21\test12_21\test12_21.cpp(13,8): warning C4101: “ch”: 未引用的局部变量
+  test12_21.vcxproj -> D:\C_code\test12_21\Debug\test12_21.exe
