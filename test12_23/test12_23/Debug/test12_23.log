@@ -1,0 +1,33 @@
+﻿  test12_23.cpp
+D:\C_code\test12_23\test12_23\test12_23.cpp(144,16): error C2664: “size_t strlen(const char *)”: 无法将参数 1 从“const char”转换为“const char *”
+      D:\C_code\test12_23\test12_23\test12_23.cpp(144,23):
+      从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+      D:\Windows Kits\10\Include\10.0.26100.0\ucrt\string.h(215,16):
+      参见“strlen”的声明
+      D:\C_code\test12_23\test12_23\test12_23.cpp(144,16):
+      尝试匹配参数列表“(const char)”时
+  
+D:\C_code\test12_23\test12_23\test12_23.cpp(145,16): error C2664: “size_t strlen(const char *)”: 无法将参数 1 从“const char”转换为“const char *”
+      D:\C_code\test12_23\test12_23\test12_23.cpp(145,26):
+      从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+      D:\Windows Kits\10\Include\10.0.26100.0\ucrt\string.h(215,16):
+      参见“strlen”的声明
+      D:\C_code\test12_23\test12_23\test12_23.cpp(145,16):
+      尝试匹配参数列表“(const char)”时
+  
+D:\C_code\test12_23\test12_23\test12_23.cpp(146,16): error C2664: “size_t strlen(const char *)”: 无法将参数 1 从“const char **”转换为“const char *”
+      D:\C_code\test12_23\test12_23\test12_23.cpp(146,23):
+      指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      D:\Windows Kits\10\Include\10.0.26100.0\ucrt\string.h(215,16):
+      参见“strlen”的声明
+      D:\C_code\test12_23\test12_23\test12_23.cpp(146,16):
+      尝试匹配参数列表“(const char **)”时
+  
+D:\C_code\test12_23\test12_23\test12_23.cpp(147,16): error C2664: “size_t strlen(const char *)”: 无法将参数 1 从“const char **”转换为“const char *”
+      D:\C_code\test12_23\test12_23\test12_23.cpp(147,26):
+      指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      D:\Windows Kits\10\Include\10.0.26100.0\ucrt\string.h(215,16):
+      参见“strlen”的声明
+      D:\C_code\test12_23\test12_23\test12_23.cpp(147,16):
+      尝试匹配参数列表“(const char **)”时
+  
