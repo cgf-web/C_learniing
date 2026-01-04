@@ -1,0 +1,14 @@
+﻿  LinkList.cpp
+D:\C_code\test1_4\test1_4\LinkList.cpp(63,16): warning C4552: ”-“: 未使用表达式结果
+  静态链表.cpp
+  正在生成代码...
+  TestLinkList.c
+D:\C_code\test1_4\test1_4\TestLinkList.c(6,26): warning C4013: “Init_LinkList”未定义；假设外部返回 int
+D:\C_code\test1_4\test1_4\TestLinkList.c(8,2): warning C4013: “Foreach_LinkList”未定义；假设外部返回 int
+D:\C_code\test1_4\test1_4\TestLinkList.c(10,2): warning C4013: “InsertByValue_LinkList”未定义；假设外部返回 int
+D:\C_code\test1_4\test1_4\TestLinkList.c(11,2): warning C4013: “printf”未定义；假设外部返回 int
+D:\C_code\test1_4\test1_4\TestLinkList.c(14,2): warning C4013: “Clear_LinkList”未定义；假设外部返回 int
+D:\C_code\test1_4\test1_4\TestLinkList.c(24,2): warning C4013: “RemoveByValue_LinkList”未定义；假设外部返回 int
+D:\C_code\test1_4\test1_4\TestLinkList.c(30,2): warning C4013: “Destroy_LinkList”未定义；假设外部返回 int
+D:\C_code\test1_4\test1_4\TestLinkList.c(6,19): warning C4047: “初始化”:“LinkNode *”与“int”的间接级别不同
+  test1_4.vcxproj -> D:\C_code\test1_4\Debug\test1_4.exe
