@@ -1,0 +1,27 @@
+﻿  Dynamic_Contact.cpp
+  test.cpp
+  正在生成代码...
+test.obj : error LNK2005: main 已经在 Dynamic_Contact.obj 中定义
+test.obj : error LNK2019: 无法解析的外部符号 "int __cdecl InitContact(struct Contact *)" (?InitContact@@YAHPEAUContact@@@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "void __cdecl InitContact(struct ContactBook *)" (?InitContact@@YAXPEAUContactBook@@@Z)
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl AddContact(struct Contact *)" (?AddContact@@YAXPEAUContact@@@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "void __cdecl AddContact(struct ContactBook *)" (?AddContact@@YAXPEAUContactBook@@@Z)
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl ShowContact(struct Contact const *)" (?ShowContact@@YAXPEBUContact@@@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "void __cdecl ShowContact(struct ContactBook *)" (?ShowContact@@YAXPEAUContactBook@@@Z)
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl DelContact(struct Contact *)" (?DelContact@@YAXPEAUContact@@@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "void __cdecl DelContact(struct ContactBook *)" (?DelContact@@YAXPEAUContactBook@@@Z)
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl searchContact(struct Contact *)" (?searchContact@@YAXPEAUContact@@@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "void __cdecl searchContact(struct ContactBook *)" (?searchContact@@YAXPEAUContactBook@@@Z)
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl ModifyContact(struct Contact *)" (?ModifyContact@@YAXPEAUContact@@@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "void __cdecl ModifyContact(struct ContactBook *)" (?ModifyContact@@YAXPEAUContactBook@@@Z)
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl SortContact(struct Contact *)" (?SortContact@@YAXPEAUContact@@@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "void __cdecl SortContact(struct ContactBook *)" (?SortContact@@YAXPEAUContactBook@@@Z)
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl DestroyContact(struct Contact *)" (?DestroyContact@@YAXPEAUContact@@@Z)，函数 main 中引用了该符号
+D:\C_code\Dynamic_Contact1_8\x64\Debug\Dynamic_Contact1_8.exe : fatal error LNK1120: 8 个无法解析的外部命令
